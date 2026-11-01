@@ -560,6 +560,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 45,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-minamoto-ienaga-nikki",
   "work": "源家長日記",
@@ -572,7 +576,7 @@
   "blocks": 46,
   "chars": 31805,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 45,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T09:50:39+09:00"
